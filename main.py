@@ -3,7 +3,7 @@ import random
 import requests
 import bs4
 
-BOT_TOKEN = 'MTA2OTk2MzYwMzczMTU0NjExMg.GYJJvI.lC4okGBohJqP1ojt0r-FHcbFmRUuLwA3dNn8L8'
+BOT_TOKEN = 'YOUR_API_KEY'
 client = discord.Client()
 
 
